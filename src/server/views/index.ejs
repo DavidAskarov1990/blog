@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html ng-app="app">
+  <head>
+      <title><%= title %></title>
+
+      <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+      <!--<link href='https://fonts.googleapis.com/css?family=Slabo+27px' rel='stylesheet' type='text/css'>-->
+      <!--<link href='https://fonts.googleapis.com/css?family=Slabo+27px|Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>-->
+      <!--<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">-->
+      <link href='https://fonts.googleapis.com/css?family=Slabo+27px|Open+Sans+Condensed:300italic|Amatic+SC:700' rel='stylesheet' type='text/css'>
+
+      <link rel='stylesheet' href='./css/header.css'/>
+      <link rel="stylesheet" href="./css/section.css"/>
+      <link rel='stylesheet' href='./css/ripple.css'/>
+      <link rel="stylesheet" href="./css/authorization.css"/>
+      <link rel="stylesheet" href="./css/registration.css"/>
+      <link rel="stylesheet" href="./vendor/bower_components/bootstrap/dist/css/bootstrap-theme.css"/>
+      <link rel="stylesheet" href="./vendor/bower_components/bootstrap/dist/css/bootstrap.css"/>
+      <link rel="stylesheet" href="./vendor/toastr/toastr.css"/>
+
+      <script src="./vendor/bower_components/angular/angular.js"></script>
+      <script src="./vendor/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+      <script src="./vendor/bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+      <script src="./vendor/bower_components/jquery/dist/jquery.min.js"></script>
+      <script src="./vendor/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+      <script src="./js/animation/header.js"></script>
+      <script src="./js/animation/animation-ripple.js"></script>
+      <script src="./js/animation/animation-letter.js"></script>
+      <script src="./js/animation/animation_click.js"></script>
+
+      <script src="./vendor/bower_components/letters/letters.js"></script>
+      <script src="./vendor/bower_components/letters/d3-ease.v0.6.js"></script>
+      <script src="./vendor/bower_components/letters/segment.min.js"></script>
+      <script src="./vendor/jquery-ui.js"></script>
+      <script src="./vendor/toastr/toastr.js"></script>
+
+      <script src="js/app.js"></script>
+      <script src="js/controllers/home.js"></script>
+      <script src="js/controllers/authorization.js"></script>
+      <script src="js/controllers/registration.js"></script>
+
+      <script src="js/services/userServices.js"></script>
+
+      <script src="js/directives/authorization.js"></script>
+      </head>
+      <body>
+          <header>
+                <div id="header-position-first" class="side">
+                    <div id="header-title">
+                        Header First Position
+                    </div>
+
+                    <div id="btn-authorisation" ui-sref="authorization">Sigh in</div>
+                    <div id="btn-registration" ui-sref="registration">Reg...</div>
+
+                    <div id="header-link">
+                        <button class="col-xs-3">Link 1</button>
+                        <button class="col-xs-3">Link 2</button>
+                        <button class="col-xs-3">Link 3</button>
+                        <button class="col-xs-3">Link 4</button>
+                    </div>
+                </div>
+                <div id="header-position-second" class="side text-center">
+                    <span id="close-header-second">Header Second Position</span>
+                </div>
+          </header>
+
+          <section>
+              <div id="greeting">Hello user</div>
+
+              <div ui-view="center"></div>
+          </section>
+      </body>
+</html>

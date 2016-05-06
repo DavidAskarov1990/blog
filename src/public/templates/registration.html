@@ -1,0 +1,38 @@
+<div class="container-dimness">
+    <div id="wrapper-registration">
+        <div id="titleRegistration" class="col-sm-12 text-center">Registration</div>
+
+        <form name="registrationForm">
+            <div class="field-registration">
+                <span class="col-sm-5 text-center">Login</span>
+                <input name="login"  ng-model="login" type="text" class="col-sm-6 text-center  panel-default" placeholder="Login" required/>
+            </div>
+
+            <div class="field-registration">
+                <span class="col-sm-5 text-center">Password</span>
+                <input name="password"  ng-model="password" type="password" class="col-sm-6 text-center  panel-default" placeholder="Password" required/>
+            </div>
+
+            <div id="password-confirmation-registration">
+                <span class="col-sm-5 text-center">Password confirmation</span>
+                <input name="passwordConfirmation"  ng-model="passwordConfirmation" type="password" class="col-sm-6 text-center  panel-default" placeholder="Password Again " required/>
+            </div>
+
+            <div class="field-registration">
+                <span class="col-sm-5 text-center">E-mail</span>
+                <input name="email"  ng-model="Email" type="email" class="col-sm-6 text-center  panel-default" placeholder="E-mail" required/>
+            </div>
+
+            <div id="commentRegistration">
+                <span ng-show="registrationForm.login.$error.required || registrationForm.password.$error.required ||
+                        registrationForm.passwordConfirmation.$error.required || registrationForm.email.$error.required
+                        ||  registrationForm.email.$error.email">
+                    {{getError(registrationForm.login.$error, registrationForm.password.$error, registrationForm.passwordConfirmation.$error, registrationForm.email.$error)}}
+                </span>
+            </div>
+
+            <span ng-click="setNewUser()" id="btn-ok-registration" class="col-sm-3 text-center" ng-disabled="registrationForm.$invalid">Ok</span>
+            <span ui-sref="home" id="btn-close-registration" class="col-sm-3 text-center">Close</span>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+section {}
+
+#greeting
+{
+    position: absolute;
+    top: 40%;
+    left: 36%;
+    cursor: pointer;
+}

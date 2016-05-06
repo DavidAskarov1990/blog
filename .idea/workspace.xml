@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b925526-a60c-43ed-886a-93daf325c2ec" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/animation/animation-letter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/animation/animation-ripple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/animation/animation_click.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/animation/header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/authorization/authorization.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/authorization/authorization.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/home/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/home/home.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/registration/registration.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/registration/registration.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/public/page/services/userServices.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/public/css/authorization.css" afterPath="$PROJECT_DIR$/src/public/css/authorization.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/public/css/header.css" afterPath="$PROJECT_DIR$/src/public/css/header.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/public/css/registration.css" afterPath="$PROJECT_DIR$/src/public/css/registration.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/server/views/index.ejs" afterPath="$PROJECT_DIR$/src/server/views/index.ejs" />
+    </list>
+    <ignored path="nodejs_header.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nodejs_header" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="authorization.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/public/templates/authorization.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authorization.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/public/js/directives/authorization.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authorization.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/public/js/controllers/authorization.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/views/home.html" />
+        <option value="$PROJECT_DIR$/server/routes/route.js" />
+        <option value="$PROJECT_DIR$/server/views/authorization.ejs" />
+        <option value="$PROJECT_DIR$/server/views/f.ejs" />
+        <option value="$PROJECT_DIR$/server/routes/authorization.js" />
+        <option value="$PROJECT_DIR$/server/public/page/auth.html" />
+        <option value="$PROJECT_DIR$/server/views/authorization.html" />
+        <option value="$PROJECT_DIR$/server/public/w.html" />
+        <option value="$PROJECT_DIR$/server/public/page/w.html" />
+        <option value="$PROJECT_DIR$/server/public/page/ww.ejs" />
+        <option value="$PROJECT_DIR$/server/routes/index.js" />
+        <option value="$PROJECT_DIR$/server/public/page/hello.html" />
+        <option value="$PROJECT_DIR$/server/public/page/test.html" />
+        <option value="$PROJECT_DIR$/server/public/hello.html" />
+        <option value="$PROJECT_DIR$/server/public/page/home/home.html" />
+        <option value="$PROJECT_DIR$/server/public/page/animation/animation_click.js" />
+        <option value="$PROJECT_DIR$/server/routes/authoriztion.js" />
+        <option value="$PROJECT_DIR$/server/public/page/app.js" />
+        <option value="$PROJECT_DIR$/server/public/css/header.css" />
+        <option value="$PROJECT_DIR$/server/public/css/authorization.css" />
+        <option value="$PROJECT_DIR$/server/config/index.js" />
+        <option value="$PROJECT_DIR$/server/config/config.json" />
+        <option value="$PROJECT_DIR$/server/public/page/authorization/authorization.html" />
+        <option value="$PROJECT_DIR$/server/public/page/authorization/authorization.js" />
+        <option value="$PROJECT_DIR$/server/public/css/registration.css" />
+        <option value="$PROJECT_DIR$/server/views/index.ejs" />
+        <option value="$PROJECT_DIR$/server/public/page/registration/registration.html" />
+        <option value="$PROJECT_DIR$/server/public/page/registration/registration.js" />
+        <option value="$PROJECT_DIR$/server/app.js" />
+        <option value="$PROJECT_DIR$/server/server/views/index.ejs" />
+        <option value="$PROJECT_DIR$/src/server/lib/mongoose.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/server/models/user.js" />
+        <option value="$PROJECT_DIR$/src/server/routes/index.js" />
+        <option value="$PROJECT_DIR$/src/server/middleware/loadUser.js" />
+        <option value="$PROJECT_DIR$/src/server/lib/sessionStore.js" />
+        <option value="$PROJECT_DIR$/src/server/config/config.json" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/public/page/services/userServices.js" />
+        <option value="$PROJECT_DIR$/src/server/controller/user.js" />
+        <option value="$PROJECT_DIR$/src/public/page/authorization/authorization.js" />
+        <option value="$PROJECT_DIR$/src/public/page/registration/registration.js" />
+        <option value="$PROJECT_DIR$/src/public/css/authorization.css" />
+        <option value="$PROJECT_DIR$/src/public/page/registration/registration.html" />
+        <option value="$PROJECT_DIR$/src/public/css/header.css" />
+        <option value="$PROJECT_DIR$/src/public/page/app.js" />
+        <option value="$PROJECT_DIR$/src/public/css/registration.css" />
+        <option value="$PROJECT_DIR$/src/server/views/index.ejs" />
+        <option value="$PROJECT_DIR$/src/public/js/directives/authorization.js" />
+        <option value="$PROJECT_DIR$/src/public/js/controllers/authorization.js" />
+        <option value="$PROJECT_DIR$/src/public/templates/authorization.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node.exe" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="4.1.1" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dev\WebstormProjects\blog-master\src\public\js" />
+      <recent name="C:\Users\Dev\WebstormProjects\blog-master\src\public\js\controllers" />
+      <recent name="C:\Users\Dev\WebstormProjects\blog-master\src\public\templates" />
+      <recent name="C:\Users\Dev\WebstormProjects\blog-master\src\server" />
+      <recent name="C:\Users\Dev\WebstormProjects\blog-master\server\public\vendor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dev\WebstormProjects\blog-master\server\server" />
+      <recent name="C:\Users\Dev\WebstormProjects\blog-master\server\public\page" />
+      <recent name="C:\Users\Dev\WebstormProjects\blog-master\server\public\js\animation" />
+      <recent name="C:\Documents and Settings\user\WebstormProjects\nodejs_header\server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b925526-a60c-43ed-886a-93daf325c2ec" name="Default" comment="" />
+      <created>1461307112265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461307112265</updated>
+      <workItem from="1461307113546" duration="4460000" />
+      <workItem from="1461314931093" duration="8963000" />
+      <workItem from="1461324478609" duration="3156000" />
+      <workItem from="1461422528051" duration="1390000" />
+      <workItem from="1461424223711" duration="2000000" />
+      <workItem from="1461426260473" duration="1925000" />
+      <workItem from="1461428224060" duration="2115000" />
+      <workItem from="1461430417118" duration="2200000" />
+      <workItem from="1461432675062" duration="1804000" />
+      <workItem from="1461434512488" duration="1825000" />
+      <workItem from="1461436483131" duration="1899000" />
+      <workItem from="1461474071529" duration="1805000" />
+      <workItem from="1461475911885" duration="1908000" />
+      <workItem from="1461477942279" duration="1552000" />
+      <workItem from="1461480611790" duration="1805000" />
+      <workItem from="1461483267545" duration="891000" />
+      <workItem from="1461486950836" duration="1909000" />
+      <workItem from="1461488886104" duration="1835000" />
+      <workItem from="1461490768623" duration="1222000" />
+      <workItem from="1461497083956" duration="1814000" />
+      <workItem from="1461499064708" duration="1675000" />
+      <workItem from="1461500888338" duration="1969000" />
+      <workItem from="1461503042281" duration="2433000" />
+      <workItem from="1461505509081" duration="1713000" />
+      <workItem from="1461517269065" duration="1786000" />
+      <workItem from="1461519253902" duration="2400000" />
+      <workItem from="1461521684054" duration="1800000" />
+      <workItem from="1461523512681" duration="1337000" />
+      <workItem from="1461563909296" duration="2088000" />
+      <workItem from="1461567392328" duration="1795000" />
+      <workItem from="1461570095093" duration="805000" />
+      <workItem from="1461578088593" duration="1058000" />
+      <workItem from="1461579970234" duration="1519000" />
+      <workItem from="1461581800984" duration="1631000" />
+      <workItem from="1461583896312" duration="1790000" />
+      <workItem from="1461585821625" duration="1031000" />
+      <workItem from="1461594053556" duration="1696000" />
+      <workItem from="1461595905041" duration="1863000" />
+      <workItem from="1461597815194" duration="1602000" />
+      <workItem from="1461599844290" duration="64000" />
+      <workItem from="1461601625463" duration="106000" />
+      <workItem from="1461601769098" duration="2112000" />
+      <workItem from="1461603920339" duration="2357000" />
+      <workItem from="1461606510800" duration="1848000" />
+      <workItem from="1461608409607" duration="1493000" />
+      <workItem from="1461610451406" duration="1848000" />
+      <workItem from="1461645892953" duration="1727000" />
+      <workItem from="1461647686843" duration="1043000" />
+      <workItem from="1461650631359" duration="2259000" />
+      <workItem from="1461652912968" duration="1994000" />
+      <workItem from="1461656140843" duration="1021000" />
+      <workItem from="1461660445968" duration="1252000" />
+      <workItem from="1461662488578" duration="52000" />
+      <workItem from="1461663724421" duration="555000" />
+      <workItem from="1461664321203" duration="32000" />
+      <workItem from="1461665591250" duration="835000" />
+      <workItem from="1461666489687" duration="1867000" />
+      <workItem from="1461670507312" duration="1758000" />
+      <workItem from="1461672359343" duration="497000" />
+      <workItem from="1461688785652" duration="1588000" />
+      <workItem from="1461690402047" duration="1803000" />
+      <workItem from="1461692243425" duration="1928000" />
+      <workItem from="1461694820424" duration="1859000" />
+      <workItem from="1461696710933" duration="1783000" />
+      <workItem from="1461731203031" duration="1791000" />
+      <workItem from="1461733042125" duration="1796000" />
+      <workItem from="1461734900515" duration="1854000" />
+      <workItem from="1461736810109" duration="1892000" />
+      <workItem from="1461738776921" duration="1747000" />
+      <workItem from="1461740624265" duration="1830000" />
+      <workItem from="1461742485984" duration="1154000" />
+      <workItem from="1461746122765" duration="1932000" />
+      <workItem from="1461748132906" duration="1332000" />
+      <workItem from="1461749734171" duration="239000" />
+      <workItem from="1461750308343" duration="1352000" />
+      <workItem from="1461752796921" duration="1746000" />
+      <workItem from="1461768122118" duration="1968000" />
+      <workItem from="1461770119594" duration="1844000" />
+      <workItem from="1461773486962" duration="2031000" />
+      <workItem from="1461775591556" duration="1836000" />
+      <workItem from="1461777874256" duration="1606000" />
+      <workItem from="1461779964034" duration="1017000" />
+      <workItem from="1461931183183" duration="48000" />
+      <workItem from="1461946718186" duration="604000" />
+      <workItem from="1461947781240" duration="744000" />
+      <workItem from="1461997083456" duration="1142000" />
+      <workItem from="1461999085722" duration="2144000" />
+      <workItem from="1462002406162" duration="1792000" />
+      <workItem from="1462004231220" duration="1954000" />
+      <workItem from="1462013467896" duration="2006000" />
+      <workItem from="1462015546015" duration="1948000" />
+      <workItem from="1462017869641" duration="1893000" />
+      <workItem from="1462020006978" duration="1811000" />
+      <workItem from="1462021947423" duration="1801000" />
+      <workItem from="1462023872365" duration="1665000" />
+      <workItem from="1462025770021" duration="1206000" />
+      <workItem from="1462027769135" duration="1396000" />
+      <workItem from="1462034629398" duration="1543000" />
+      <workItem from="1462036214210" duration="1674000" />
+      <workItem from="1462080389270" duration="1880000" />
+      <workItem from="1462082306250" duration="2281000" />
+      <workItem from="1462084969550" duration="1815000" />
+      <workItem from="1462086908474" duration="1815000" />
+      <workItem from="1462088758336" duration="907000" />
+      <workItem from="1462099691897" duration="1854000" />
+      <workItem from="1462101588309" duration="1827000" />
+      <workItem from="1462103446116" duration="2060000" />
+      <workItem from="1462105542487" duration="1945000" />
+      <workItem from="1462107555226" duration="2014000" />
+      <workItem from="1462109601141" duration="1227000" />
+      <workItem from="1462119912081" duration="1815000" />
+      <workItem from="1462121831881" duration="1961000" />
+      <workItem from="1462123830991" duration="1984000" />
+      <workItem from="1462125849786" duration="1859000" />
+      <workItem from="1462127799677" duration="1952000" />
+      <workItem from="1462166296084" duration="2103000" />
+      <workItem from="1462169593664" duration="1036000" />
+      <workItem from="1462171431542" duration="1799000" />
+      <workItem from="1462173270716" duration="2191000" />
+      <workItem from="1462212602747" duration="1856000" />
+      <workItem from="1462214561809" duration="296000" />
+      <workItem from="1462251066299" duration="1760000" />
+      <workItem from="1462252871106" duration="1786000" />
+      <workItem from="1462254694071" duration="1818000" />
+      <workItem from="1462256555833" duration="2122000" />
+      <workItem from="1462259263006" duration="2099000" />
+      <workItem from="1462261558725" duration="1737000" />
+      <workItem from="1462263381209" duration="1826000" />
+      <workItem from="1462265300280" duration="167000" />
+      <workItem from="1462265985315" duration="1651000" />
+      <workItem from="1462267717095" duration="1587000" />
+      <workItem from="1462270381518" duration="1924000" />
+      <workItem from="1462279187400" duration="1796000" />
+      <workItem from="1462281028942" duration="964000" />
+      <workItem from="1462284729128" duration="1178000" />
+      <workItem from="1462365908806" duration="594000" />
+      <workItem from="1462377158613" duration="1804000" />
+      <workItem from="1462378992780" duration="950000" />
+      <workItem from="1462382157461" duration="84000" />
+      <workItem from="1462457852523" duration="1724000" />
+      <workItem from="1462459607458" duration="1437000" />
+      <workItem from="1462461570149" duration="2268000" />
+      <workItem from="1462464174141" duration="371000" />
+      <workItem from="1462464573837" duration="2089000" />
+      <workItem from="1462466700839" duration="969000" />
+      <workItem from="1462469060123" duration="1862000" />
+      <workItem from="1462470954222" duration="1830000" />
+      <workItem from="1462472821754" duration="1827000" />
+      <workItem from="1462511794339" duration="1597000" />
+      <workItem from="1462513633858" duration="1708000" />
+      <workItem from="1462515517313" duration="1646000" />
+      <workItem from="1462518291854" duration="1830000" />
+      <workItem from="1462520153693" duration="1793000" />
+      <workItem from="1462521976565" duration="1796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="255559000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20345345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14699571" sideWeight="0.51606107" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12929623" sideWeight="0.4839389" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2487725" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19148937" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13747954" sideWeight="0.5074627" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1901082" sideWeight="0.49253732" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20447761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/views/authorization.ejs" />
+    <entry file="file://$PROJECT_DIR$/server/routes/users.js" />
+    <entry file="file://$PROJECT_DIR$/server/public/page/ww.ejs" />
+    <entry file="file://$PROJECT_DIR$/server/public/page/w.html" />
+    <entry file="file://$PROJECT_DIR$/server/views/authorization.html" />
+    <entry file="file://$PROJECT_DIR$/server/public/page/authorization.html" />
+    <entry file="file://$PROJECT_DIR$/server/public/page/hello.html" />
+    <entry file="file://$PROJECT_DIR$/server/public/page/test.html" />
+    <entry file="file://$PROJECT_DIR$/server/public/hello.html" />
+    <entry file="file://$PROJECT_DIR$/src/public/page/animation/animation-ripple.js" />
+    <entry file="file://$PROJECT_DIR$/src/public/page/home/home.html" />
+    <entry file="file://$PROJECT_DIR$/src/public/page/animation/header.js" />
+    <entry file="file://$PROJECT_DIR$/src/public/page/animation/animation_click.js" />
+    <entry file="file://$PROJECT_DIR$/server/routes/authoriztion.js" />
+    <entry file="file://$PROJECT_DIR$/src/server/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/page/authorization/authorization.html" />
+    <entry file="file://$PROJECT_DIR$/src/public/page/home/home.js" />
+    <entry file="file://$PROJECT_DIR$/src/public/vendor/toastr/toastr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongodb/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="98" column="18" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mongoose/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="158" column="20" selection-start-line="158" selection-start-column="14" selection-end-line="158" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/nconf/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="97" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/connect-mongo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express-session/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="117" column="1" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/async/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="137" column="14" selection-start-line="137" selection-start-column="14" selection-end-line="137" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/lib/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/middleware/loadUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/config/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/lib/sessionStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/controller/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/css/authorization.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/page/registration/registration.html" />
+    <entry file="file://$PROJECT_DIR$/src/public/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-770">
+          <caret line="242" column="38" selection-start-line="242" selection-start-column="38" selection-end-line="242" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/templates/registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/page/services/userServices.js" />
+    <entry file="file://$PROJECT_DIR$/src/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/css/registration.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/page/registration/registration.js" />
+    <entry file="file://$PROJECT_DIR$/src/public/page/authorization/authorization.js" />
+    <entry file="file://$PROJECT_DIR$/src/public/page/app.js" />
+    <entry file="file://$PROJECT_DIR$/src/public/js/animation/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/js/services/userServices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/routes/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/js/directives/authorization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/js/controllers/authorization.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/templates/authorization.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

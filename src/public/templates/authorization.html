@@ -1,0 +1,25 @@
+<div class="container-dimness">
+    <div id="wrapper-authorization">
+        <div id="titleAuthorization" class="col-sm-12 text-center">Authorization</div>
+
+        <form  class="col-sm-12" name="clientForm">
+
+            <div id="login-authorization">
+                <span class="col-sm-4 text-center">Login</span>
+                <input name="loginAuthor"  ng-model="fieldInput.login" type="text" class="col-sm-7 text-center  panel-default" placeholder="Login" required/>
+            </div>
+
+            <div id="password-authorization">
+                <span class="col-sm-4 text-center">Password</span>
+                <input name="passwordAuthor" ng-model="fieldInput.password" type="password" class="col-sm-7 text-center panel-default" placeholder="Password" required/>
+            </div>
+
+            <div id="comment">
+                <div input-authorization prop="{{fieldInput}}"></div>
+            </div>
+
+            <span id="btn-ok-authorization" ng-click="authorizationUser()" class="col-sm-3 text-center" ng-disabled="clientForm.$invalid">Ok</span>
+            <span ui-sref="home" id="btn-close-authorization" class="col-sm-3 text-center">Close</span>
+        </form>
+    </div>
+</div>

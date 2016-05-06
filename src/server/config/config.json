@@ -1,0 +1,22 @@
+{
+  "port":3000,
+  "mongoose":{
+    "uri":"mongodb://David:123qwerty@jello.modulusmongo.net:27017/Tepup5ip",
+    "options":{
+      "server":{
+        "socketOptions":{
+          "keepAlive":1
+        }
+      }
+    }
+  },
+  "session":{
+    "secret": "mySecret",
+    "key":"sid",
+    "cookie":{
+      "path":"/",
+      "httpOnly":true,
+      "maxAge":null
+    }
+  }
+}
